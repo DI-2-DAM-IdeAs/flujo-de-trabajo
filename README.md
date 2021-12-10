@@ -10,3 +10,4 @@ Vamos a simular el flujo de trabajo con Git y GitHub para ello practicaremos:
 2. Creación de ramas
 3. Subida de ramas al repositorio remoto
 4. Solicitud de pull-request para mezclar la rama creada con la rama principal 
+
